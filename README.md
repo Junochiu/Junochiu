@@ -1,10 +1,7 @@
 ### Hi, I'm Juno
 I came from a ECE background, where I got training for low-level programming and machine learning in my undergrad. 
-Graduated from NYU MSCS this May, worked on opensource security research projects in the last school year. 
-Currently working as a swe in Web3 space and learning zk  
+Graduated from NYU MSCS, worked on opensource security research projects. Past 3 years I was a software/research engeneer in the web3 space.
 
-- 👯 I’m looking to collaborate on next upcoming hackathon
-- 🔭 I’m currently looking for ideas to build for zkPlayground
 - ⚡ Fun fact: I'll sneeze whenever I have >75% chocolate
 <!--
 **Junochiu/Junochiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
